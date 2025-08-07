@@ -1,1 +1,1 @@
-Login page feature coming soon
+Login page coming soon
